@@ -9,6 +9,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+Libary/
+UserSettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -74,56 +76,3 @@ crashlytics-build.properties
 
 # Formatting files
 .clang-format
-
-
-Library/ArtifactDB
-
-Library/Bee/1900b0aE.dag
-
-Library/Bee/1900b0aE.dag_fsmtime
-
-Library/Bee/1900b0aE.dag.json
-
-Library/Bee/backend_profiler0.traceevents
-
-Library/Bee/backend_profiler1.traceevents
-
-Library/Bee/buildprogram0.traceevents
-
-Library/Bee/fullprofile.json
-
-Library/Bee/tundra.digestcache
-
-Library/Bee/tundra.log.json
-
-Library/Bee/TundraBuildState.state
-
-Library/BurstCache/JIT/CacheManifest.json
-
-Library/BurstCache/JIT/Hashes/Unity.2D.Animation.Editor.bhc
-
-Library/BurstCache/JIT/Hashes/Unity.2D.Common.Runtime.bhc
-
-Library/BurstCache/JIT/Hashes/Unity.2D.SpriteShape.Runtime.bhc
-
-Library/BurstCache/JIT/Hashes/Unity.Burst.bhc
-
-Library/BurstCache/JIT/Hashes/Unity.Mathematics.bhc
-
-Library/EditorSnapSettings.asset
-
-Library/LastSceneManagerSetup.txt
-
-Library/PackageManager/ProjectCache
-
-Library/PackageManager/ProjectCache.md5
-
-Library/SceneVisibilityState.asset
-
-Library/Search/transactions.db
-
-Library/SourceAssetDB
-
-Library/SourceAssetDB-lock
-
-UserSettings/Layouts/default-2021.dwlt
